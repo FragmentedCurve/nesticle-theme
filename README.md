@@ -3,7 +3,7 @@
 This repository contains the bloody hand cursor from the NES emulator
 NESticle. The cursor was rendered and extracted from NESticle's code.
 
-![](cursors/nesticle-cursor.xmc)
+![nesticle cursor gif](example.gif)
 
 ## Installation
 
