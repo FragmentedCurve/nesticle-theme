@@ -1,7 +1,7 @@
 # nesticle theme
 
 This repository contains the bloody hand cursor from the NES emulator
-NESticle. The cursor was rendered and extracted from NESticle's code.
+NESticle. The cursor was rendered and extracted via NESticle's code.
 
 ![nesticle cursor gif](example.gif)
 
